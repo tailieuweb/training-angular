@@ -1,0 +1,4 @@
+cài nodejs phien b?n 10 https://nodejs.org/fa/blog/release/v10.18.0/
+ch?y angula 7 : cmd -> npm install -g @angular/cli -> No
+               ch?y cmd c?a project "ng serve" xem dc ko
+               N?u ko dc ch?y "npm i" xong ch?y l?i "npm serve"
